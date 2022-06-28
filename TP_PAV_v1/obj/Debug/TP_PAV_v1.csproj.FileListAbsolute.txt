@@ -1,0 +1,166 @@
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe.config
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\TP_PAV_v1.pdb
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMCamion.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMCombustible.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMBarrio.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEmpleados.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMLocalidad.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMMarca.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMProvincia.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMSucursal.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTanque.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoCombustible.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoDocumento.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTurno.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEstacion.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.LoguinForm.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.exe
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.pdb
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Entidades.PrincipalForm.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.AltaRemito.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\EnvDTE.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\stdole.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoCamiones.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteEmpeados.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoMarcas.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe.config
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\TP_PAV_v1.pdb
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\EnvDTE.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\stdole.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMCamion.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMCombustible.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMBarrio.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEmpleados.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMLocalidad.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMMarca.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMProvincia.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.AltaRemito.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMSucursal.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTanque.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoCombustible.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoDocumento.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTurno.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEstacion.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.LoguinForm.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Entidades.PrincipalForm.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteEmpeados.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoCamiones.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoMarcas.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteTipoCombustible.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.Properties.Resources.resources
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.GenerateResource.cache
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CopyComplete
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.exe
+C:\Users\Nacho\Desktop\UTN\Programación de Aplicaciones Visuales 1\Github\TP_PAV_v1\obj\Debug\TP_PAV_v1.pdb
